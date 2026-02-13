@@ -57,7 +57,7 @@ Desde o início do desenvolvimento, nós do grupo ja percebemos a importância d
 - [@fritute](https://github.com/fritute)
 - [@gioxavier7](https://github.com/gioxavier7)
 - [@kbueno011](https://github.com/kbueno011)
-- [@Joaofpedro1612](https://github.com/Joaofpedro1612)
+- [@JotaMaciel](https://github.com/JotaMaciel)
 
 
 ## Relacionados
